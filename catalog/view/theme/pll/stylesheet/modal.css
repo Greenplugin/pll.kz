@@ -1,0 +1,32 @@
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-header,
+.modal-footer {
+  background: #0B1619;
+  color: #fff;
+}
+
+.close { /*крестик для закрытия модалки */
+  color: #fff;
+  opacity: .7;
+  text-shadow: none;
+}
+
+.close:hover {
+  color: #fff;
+  opacity: 1;
+}
+/*конец крестик для закрытия модалки */
+
+.modal-body {
+  padding: 0;
+}
+
+.modal-footer button {
+  border-radius: 0;
+  background: #fb771d;
+  border: none;
+  color: white;
+}
